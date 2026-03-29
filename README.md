@@ -1,6 +1,13 @@
 index.html <!DOCTYPE html>
-<html>
-<body>
-<h1>สำเร็จแล้ว 🎉</h1>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>Koh Tao Crime</title>
+</head>
+<body style="font-family: sans-serif; text-align:center; margin-top:50px;">
+
+  <h1>เว็บไซต์ Koh Tao Crime</h1>
+  <p>เว็บนี้ใช้งานได้แล้ว 🎉</p>
+
 </body>
 </html>
